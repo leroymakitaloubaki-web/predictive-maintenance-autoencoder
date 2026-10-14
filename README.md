@@ -147,6 +147,32 @@ The notebook includes visualizations of:
 - Simulated industrial condition monitoring
 
 These visualizations illustrate the progression from nominal operation to degradation.
+### 📊 Experimental Visualizations
+
+#### Raw Vibration Signals
+![Raw Vibration Signals](images/01_raw_vibration_signals.png)
+
+#### RMS and Kurtosis Trends
+![RMS and Kurtosis Trends](images/02_rms_kurtosis_trends.png)
+
+#### Autoencoder Training Loss
+![Autoencoder Training Loss](images/03_autoencoder_training_loss.png)
+
+#### Health Indicator Evolution
+![Health Indicator Evolution](images/04_health_indicator_evolution.png)
+
+#### Preliminary Alarm Threshold
+![Preliminary Alarm Threshold](images/05_preliminary_alarm_threshold.png)
+
+*This figure shows an intermediate threshold experiment, not the final reported alarm configuration.*
+
+#### Final Degradation Curve
+![Final Degradation Curve](images/06_final_degradation_curve.png)
+
+#### Industrial Monitoring Simulation
+![Industrial Monitoring Simulation](images/07_industrial_monitoring_simulation.png)
+
+*The monitoring visualization is a simulation based on the NASA IMS dataset, not a validated live industrial deployment.*
 
 ## ⚠️ 10. Limitations
 
